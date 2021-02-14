@@ -1,0 +1,22 @@
+.part1 h2{
+    color: red;
+}
+
+.part1 p{
+    color: white;
+    background-color: black;
+    display: inline;
+}
+
+.part2 h2{
+    color: green;
+}
+
+.part2 p{
+    color: rgb(170, 247, 170);
+    background-color: darkred;
+}
+
+.part3 p{
+    color: green;
+}
