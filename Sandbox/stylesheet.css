@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    }
+
+.firstclass {
+    font-size: 45px;
+    color: rgb(2, 29, 87);
+}
+
+#textrow {
+    font-size: 32px;
+    color: lightcoral;
+}
+
+ul{
+    list-style-type: none;
+}
+
+div h1{
+    color: firebrick;
+}
