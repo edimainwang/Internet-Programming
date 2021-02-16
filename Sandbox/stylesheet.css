@@ -1,5 +1,9 @@
 h1{
     color: blue;
+    background-color: gold;
+    display: block;
+    width: 20em;
+    float: left;
 }
 
 p{
@@ -30,4 +34,10 @@ ul{
 
 div h1{
     color: firebrick;
+}
+
+.inel {
+    background-color: hotpink;
+    color: ivory;
+    display: inline;
 }
