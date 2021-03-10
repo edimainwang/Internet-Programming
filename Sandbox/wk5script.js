@@ -7,3 +7,6 @@ function myLoadFunction() {
 }
 
 document.addEventListener('DOMContentLoaded', myLoadFunction);
+
+var element = document.getElementById('myinput');
+alert(element.value);
